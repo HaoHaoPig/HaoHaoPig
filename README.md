@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **HaoHaoPig/HaoHaoPig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Sports Enthusiast
+*📍Basketball 🏀: NBA
+*📍Snooker 🎱: Ronnie O'Sullivan
+*📍Baseball ⚾:MLB
+
+##Avid Traveler 🗺️
+*📍US : LA, San Fransisco, Vegas
+*📍China : Beijin, Shanhai
+*📍Japan : Osaka, Kyoto, Tokyo
+*📍Swiss : Junfraujoch, Bern, Zurich, Interlaken, Zermatt
+*📍Australia : Brisbourn, Sydney
+*📍Thailand : Bangkok
+*📍Germany : Neuschwanstein Castle
+*📍UK : London
+*📍Hong Kong
+*📍Italy : Rome, Florence
+
+###Foodie🍕
+
+##Professional Background 📖
+Former auditor with a strong foundation in financial analysis and problem-solving
