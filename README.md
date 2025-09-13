@@ -29,5 +29,8 @@ Hi there 👋
 
 ### 🧮 Auditor(Sept. 2022 – Sept. 2024)
 - Deloitte : Audit & Assurance Department
-- Specialized in Electronics Industry IPO Company 
+- Specialized in IPO Company of Electronics Industry 
+
+### 🧮 Strategist and Venture Capitalist(Mar. 2025 – Now)
+- O-Bank : One of The First Digital Bank in Taiwan
 - 
