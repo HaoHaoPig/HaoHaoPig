@@ -11,7 +11,7 @@ Hi there 👋
 - 📍 Snooker 🎱: Ronnie O'Sullivan  
 - 📍 Baseball ⚾: MLB  
 
-### Avid Traveler 🗺️
+### 🗺️ Avid Traveler 
 - 📍 US : LA, San Francisco, Vegas  
 - 📍 China : Beijing, Shanghai  
 - 📍 Japan : Osaka, Kyoto, Tokyo  
@@ -26,4 +26,8 @@ Hi there 👋
 ### Foodie 🍕  
 
 ## Professional Background 📖
-Former auditor with a strong foundation in financial analysis and problem-solving
+
+### 🧮 Auditor(Sept. 2022 – Sept. 2024)
+- Deloitte : Audit & Assurance Department
+- Specialized in Electronics Industry IPO Company 
+- 
