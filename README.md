@@ -33,4 +33,5 @@ Hi there 👋
 
 ### 🧮 Strategist and Venture Capitalist(Mar. 2025 – Now)
 - O-Bank : One of The First Digital Bank in Taiwan
-- 
+- Strategic Planning Specialist
+- Venture Capitalist
